@@ -7,7 +7,7 @@ def test_case1_escaleno():
 
 
 def test_case2_isosceles():
-    assert checktriangle(3, 3, 4) == "Triangulo isosceles"  # a=b
+    assert checktriangle(3, 3, 4) == "Triangulo isosceles"
 
 
 def test_case3_equilatero():
